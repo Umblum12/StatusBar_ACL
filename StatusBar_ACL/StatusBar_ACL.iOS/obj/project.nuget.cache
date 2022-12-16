@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "78qFjQY0xW5esA1PBl3tI/Rj3/RCF/OMLusJ4Kh17B3oDqylT7wlDUYldxo/HQu4Jv8JSSA6Q2pgC3lBUTifUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\abela\\Desktop\\StatusBar_ACL\\StatusBar_ACL\\StatusBar_ACL.iOS\\StatusBar_ACL.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abela\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\abela\\.nuget\\packages\\xamarin.essentials\\1.7.3\\xamarin.essentials.1.7.3.nupkg.sha512",
+    "C:\\Users\\abela\\.nuget\\packages\\xamarin.forms\\5.0.0.2515\\xamarin.forms.5.0.0.2515.nupkg.sha512"
+  ],
+  "logs": []
+}
